@@ -136,11 +136,13 @@ def create_clean_db():
         #|-- deploy_dionaea.sh
         #|-- deploy_snort.sh
         #|-- deploy_kippo.sh
+        #|-- deploy_cowrie.sh
         deployscripts = {
             'Ubuntu - Conpot': path.abspath('../scripts/deploy_conpot.sh'),
             'Ubuntu - Dionaea': path.abspath('../scripts/deploy_dionaea.sh'),
             'Ubuntu - Snort': path.abspath('../scripts/deploy_snort.sh'),
             'Ubuntu/Raspberry Pi - Kippo': path.abspath('../scripts/deploy_kippo.sh'),
+            'Ubuntu/Raspberry Pi - Cowrie': path.abspath('../scripts/deploy_cowrie.sh'),
             'Ubuntu - Amun': path.abspath('../scripts/deploy_amun.sh'),
             'Ubuntu - Glastopf': path.abspath('../scripts/deploy_glastopf.sh'),
             'Ubuntu - Wordpot': path.abspath('../scripts/deploy_wordpot.sh'),

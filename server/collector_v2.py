@@ -23,6 +23,7 @@ DEFAULT_CHANNELS = [
     "elastichoney.events",
     "glastopf.events",
     "kippo.sessions",
+    "cowrie.sessions",
     "p0f.events",
     "shockpot.events",
     "snort.alerts",

@@ -8,7 +8,7 @@ For questions regarding installation please review the [MHN Troubleshooting Guid
 
 ### HONEYPOT
 
-Deployed sensors with intrusion detection software installed: Snort, Kippo, Conpot, and Dionaea. 
+Deployed sensors with intrusion detection software installed: Snort, Kippo, Cowrie, Conpot, and Dionaea. 
 
 ### MANAGEMENT SERVER
 
